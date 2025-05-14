@@ -56,7 +56,7 @@ The implementation code is available in this repository.
 Feel free to cite or fork as needed.  
 **GitHub**: [https://github.com/ssurbhi560/Localizing-Editing-Toxic-Memories-GPT-Medium](https://github.com/ssurbhi560/Localizing-Editing-Toxic-Memories-GPT-Medium)
 
-## Images from the technical report
+<!-- ## Images from the technical report
 
 
 ![Baseline Toxicity Comparison Chart](images/toxicity_baseline.png)
@@ -73,4 +73,4 @@ combinations like (4, 5, 6) and (6, 7) showed moderate effectiveness.
 
 ![Reduced Toxcity Prompts](images/reduced-toxicty-prompts.png)
 
-Figure 3: Prompt-level comparison of toxicity scores before and after MEMIT editing
+Figure 3: Prompt-level comparison of toxicity scores before and after MEMIT editing -->
